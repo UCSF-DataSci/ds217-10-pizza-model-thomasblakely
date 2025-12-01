@@ -1,0 +1,3 @@
+R-squared: 0.4743
+Observations: 20640
+AIC: 51221.28
